@@ -3,4 +3,5 @@ main()
 {
 	hello();
 	add2no();
+	oddoreven();
 }
