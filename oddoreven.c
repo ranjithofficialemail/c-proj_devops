@@ -5,7 +5,7 @@ void oddoreven()
     int num;
 
     // Ask the user to input a number
-    printf("\n====================================\n")
+    printf("\n====================================\n");
     printf("Enter an integer: ");
     scanf("%d", &num);
 
